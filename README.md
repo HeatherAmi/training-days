@@ -1,5 +1,19 @@
 # Training Days
 
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square)
+![Licence](https://img.shields.io/badge/Licence-MIT-blue?style=flat-square)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Microsoft Certified Trainer](https://img.shields.io/badge/MCT-Microsoft_Certified_Trainer-258AAF?style=flat-square&logo=microsoft&logoColor=white)
+[![YouTube](https://img.shields.io/badge/Videos-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HeatherAmiDigital)
+
+</div>
+
+
 Full-day training content for live and recorded delivery. Each training day is designed to take a learner from zero to confident on a single topic in around six to seven hours of focused content.
 
 If you are an MCT, a team lead delivering internal training, or a learner wanting a structured deep-dive, this is for you.
